@@ -1,18 +1,19 @@
-#OpenGL and C++ activity.
+## OpenGL and C++ activity.
 The assignment is developed in Windows and demonstrates the concepts of modern OpenGL programming.
+Deliverable is available at https://github.com/swatisharma23/OpenGLAssignment
+For any issues please contact swati.sharma23@gmail.com
 
-
-#Deliverable description
+## Deliverable description
 The deliverable includes the following :
 
 ## 1. executable 
 This directory contains the executable, required resources and DLLs to run.
 
 Note : This requires Microsoft Visual C++ Redistributable for Visual Studio 2015.
-	   If its not installed in the system, it can be downloaded from this link:
-	   https://www.microsoft.com/en-in/download/details.aspx?id=48145
-	   the redistributable is also attached as vc_redist.x64.zip
-	   
+   If its not installed in the system, it can be downloaded from this link:
+   https://www.microsoft.com/en-in/download/details.aspx?id=48145
+   The redistributable is also attached as vc_redist.x64.zip   
+   
 Executable supports the following Mouse and keyboard controls to navigate through the scene:
 
 - Mouse controls to move the camera.
